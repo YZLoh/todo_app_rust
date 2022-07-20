@@ -1,0 +1,1 @@
+C:\Users\user\desktop\rust_course\rusty_journal\target\debug\rusty_journal.exe: C:\Users\user\desktop\rust_course\rusty_journal\src\cli.rs C:\Users\user\desktop\rust_course\rusty_journal\src\main.rs C:\Users\user\desktop\rust_course\rusty_journal\src\tasks.rs
